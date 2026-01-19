@@ -1,0 +1,17 @@
+[mihoyo]
+account = "你的账号"
+password = "你的密码"
+
+[account]
+mys_id = "米友社ID"
+
+[game]
+ys_uid = "原神UID"
+xqgd_uid = "星穹铁道UID"
+bh3_uid = ""
+wdsjb_uid = ""
+zzz_uid = ""
+
+[api]
+url = "https://api-takumi.mihoyo.com/event/luna/sign"
+url_zzz = "https://api-takumi.mihoyo.com/event/luna/zzz/sign"

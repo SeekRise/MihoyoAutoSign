@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  mihoyo-sign:
+    build: .
+    container_name: mihoyo-auto-sign
+    volumes:
+      - ./mys/config.toml:/app/config.toml
+    restart: "no"
