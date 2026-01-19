@@ -90,7 +90,7 @@ MihoyoAutoSign/
 │   ├── run.py              # 入口文件
 │   ├── config.toml          # 配置文件
 │   ├── requirements.txt      # 依赖列表
-│   └── 1.pem               # 加密密钥
+│   └── public_key.pem               # 加密密钥
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
